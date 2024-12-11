@@ -113,10 +113,10 @@ void loop()
 
 4. Instalar las librerias **DHT sensor library for ESPx** y **LiquidCrystal I2C**.
 
-![]()
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-ULTRASONICO-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20002136.png?raw=true)
 
-6. Seleccionamos nuestro sensor en la parte de **Simulacion** en el boton **+** y buscamos **DH22** y **Ultrasonico**, luego buscamos **LCDI2C** y los conectamos de la siguiente manera.
-![]()
+6. Seleccionamos nuestro sensor en la parte de ```Simulacion``` en el boton ```+``` y buscamos **DH22** y **Ultrasonico**, luego buscamos **LCDI2C** y los conectamos de la siguiente manera.
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-ULTRASONICO-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20192631.png?raw=true)
 
 
 ### Instrucciónes de operación
@@ -128,13 +128,13 @@ void loop()
 ## Resultados
 
 Cuando haya funcionado, verás los valores y los textos en la pantalla LCD como se muestran en las siguentes imagenes cada 2s.
-![]()
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-ULTRASONICO-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20192714.png?raw=true)
 
-![]()
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-ULTRASONICO-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20192745.png?raw=true)
 
-![]()
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-ULTRASONICO-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20192835.png?raw=true)
 
-![]()
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-ULTRASONICO-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20192856.png?raw=true)
 
 # Créditos
 
